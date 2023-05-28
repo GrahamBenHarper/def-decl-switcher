@@ -2,7 +2,9 @@
   "name": "defdeclswitcher",
   "displayName": "defdeclswitcher",
   "description": "Switch between def and decl files easily",
-  "version": "0.0.1",
+  "repository": "https://github.com/GrahamBenHarper/def-decl-switcher",
+  "icon": "icon_128.png",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.78.0"
   },

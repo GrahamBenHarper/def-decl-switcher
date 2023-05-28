@@ -10,3 +10,7 @@ Open the VSCode context menu with ctrl+P and enter `>Switch Def/Decl` to switch 
 It's that simple!
 
 **Note:** This only works if your `*_def.hpp` and `*_decl.hpp` file are in the same directory as each other. There are no fancy tricks under the hood! This takes the full path of your editor's open file, replaces `*_def.hpp` with `*_decl.hpp` and vice versa, then opens it.
+
+## Compatibility
+
+This extension requires VSCode 1.78 or later.
