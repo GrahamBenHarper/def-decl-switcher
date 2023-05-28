@@ -40,7 +40,6 @@ export function activate(context: vscode.ExtensionContext) {
     } else {
       vscode.window.showWarningMessage(`The current file is neither a def nor decl file!\nCurrent File: ${currentFilePath}`);
     }
-    vscode.window.showInformationMessage(`Opening ${newFilePath}...`);
 
     // Try to open the file
     fs.access(newFilePath, fs.constants.F_OK, (err) => {
