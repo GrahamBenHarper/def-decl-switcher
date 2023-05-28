@@ -5,6 +5,7 @@
   "repository": "https://github.com/GrahamBenHarper/def-decl-switcher",
   "icon": "icon_128.png",
   "version": "1.0.0",
+  "publisher": "GrahamBenHarper",
   "engines": {
     "vscode": "^1.78.0"
   },
