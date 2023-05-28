@@ -1,6 +1,6 @@
 {
   "name": "defdeclswitcher",
-  "displayName": "defdeclswitcher",
+  "displayName": "Def/Decl Switcher",
   "description": "Switch between def and decl files easily",
   "repository": "https://github.com/GrahamBenHarper/def-decl-switcher",
   "icon": "icon_128.png",
